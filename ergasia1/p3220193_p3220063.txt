@@ -1,0 +1,12 @@
+Melos 1:
+Name : Lida Statherou
+A.M. : p3220193
+
+Melos 2:
+Name : Dimitrios Kampas 
+A.M. : p3220063
+
+Endpoint: <mysqlserver3220193.database.windows.net>
+Database: <ExercisesDatabase>
+Username: <examiner>
+Password: <SQLsley24!>
